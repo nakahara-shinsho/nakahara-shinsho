@@ -1,12 +1,12 @@
-A Solution Architect with extensive experience in machine learning, cloud engineering, user interface and big data visualization. Actively engaged in cloud architecture, data engineering, and DevOps leveraging AWS.
+👀 A Solution Architect with extensive experience in machine learning, cloud engineering, user interface and big data visualization. Actively engaged in cloud architecture, data engineering, and DevOps leveraging AWS.
 
-Cloud Technology: Developed infrastructure for HABANEROTS and CloudPOS platform with terraform and AWS services, with multiple AWS certifications, including SAP, SOP, SAA, DVA, and MLA.
+👀 Cloud Technology: Developed infrastructure for HABANEROTS and CloudPOS platform with terraform and AWS services, with multiple AWS certifications, including SAP, SOP, SAA, DVA, and MLA.
 
-Data Engineering and Visualization: Contributed to solving industry challenges through the design and implementation of big data visualization platforms such as Polyspector™.
+👀 Data Engineering and Visualization: Contributed to solving industry challenges through the design and implementation of big data visualization platforms such as Polyspector™.
 
-Driving Innovation: Delivered successful projects across diverse domains, including image processing, IoT platforms, and AI-driven BI solutions.
+👀 Driving Innovation: Delivered successful projects across diverse domains, including image processing, IoT platforms, and AI-driven BI solutions.
 
-Research and Teaching Experience: Integrated academic knowledge with industry technologies through activities as a university adjunct lecturer.
+👀 Research and Teaching Experience: Integrated academic knowledge with industry technologies through activities as a university adjunct lecturer.
 
 豊富な経験を持つソリューションアーキテクトであり、機械学習、クラウドエンジニアリング、ユーザインターフェース、そしてビッグデータの可視化において高い専門性を有しています。AWSを活用したクラウドアーキテクチャやデータエンジニアリング、DevOpsの分野で活躍されています。
 ・　クラウド技術：HABANEROTSやCloudPOSプラートフォームのインフラ開発、SAP＆ SOP& SAA＆DVA＆MLAなどのAWS資格保有。
